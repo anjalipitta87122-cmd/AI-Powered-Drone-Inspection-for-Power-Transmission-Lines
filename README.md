@@ -1,0 +1,10 @@
+# AI-Powered-Drone-Inspection-for-Power-Transmission-Lines
+The AI-Powered Drone Inspection for Power Transmission Lines is an advanced intelligent aerial surveillance system that utilizes AI technology, computer vision, and unmanned aerial vehicles (UAVs) to monitor electric transmission lines in an automated fashion. The main goal of this project is to increase the efficiency, enhance the safety level, and improve the accuracy of transmission lines monitoring without the need for manual inspection in dangerous areas.
+
+This system uses a drone equipped with a camera and Raspberry Pi processor. In the process of its operation, the drone takes real-time pictures and videos of transmission towers, conductors, insulators, and other important power lines' components. Visual data is analyzed with the help of OpenCV framework and YOLO (You Only Look Once) object detection neural network model, thus allowing to detect different transmission lines components and their possible defects.
+
+The developed AI model is able to recognize different components and to analyze them for the presence of certain abnormalities including damaged insulators, defects of the conductor, corrosion, cracks, vegetation growth, and so forth. With the help of real-time detection and analysis, utility companies will be able to find out about the necessity for maintenance of power lines and avoid major failure.
+
+The suggested solution provides a better choice compared to the conventional solutions which depend on manual patrols or helicopter surveying missions since it is cost-efficient, faster, and more secure than the previous methods. This approach increases the accuracy of inspection through AI-based image processing technology and reduces the involvement of people in the process. Besides, the system can gather and record inspection data.
+
+In this case study, it is clear how to apply Artificial Intelligence, Computer Vision, Embedded Systems, Drone Technology, and Power System Monitoring in contemporary utility systems.
